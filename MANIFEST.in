@@ -1,0 +1,1 @@
+recursive-include chem_analysis *.py *.css
