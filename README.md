@@ -49,7 +49,7 @@ Design Philosophy:
 
 
 ## Examples
-
+Examples of processing data are found under /dev/data_workups.
 
 ## Contributing
 
